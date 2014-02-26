@@ -23,6 +23,7 @@ Write a brief report on how you feel about these types of apps.
 * Write up this a report in word.
 * Think of the pros and cons of each use of ICT.
 * Include a bibliography with sources noted, e.g. webpage address and title.
+* Use the ‘reference → insert footnote’ feature of word to do your bibliography.
 * Use youtube video urls for video sources (link to the section of the video that was useful)
 
 ## Possible other dilemmas:
