@@ -1,4 +1,3 @@
-# 2023 update
 
 # Recommendations task Controlled Assessment #
 
